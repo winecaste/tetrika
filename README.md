@@ -82,9 +82,9 @@ pip install -r requirements.txt
 Для запуска тестов используйте `pytest`:
 
 ```bash
-pytest task_1/test_solution.py
-pytest task_2/test_wiki_animals_parser.py
-pytest task_3/test_appearance.py
+pytest test_1/test_solution.py
+pytest test_2/test_wiki_animals_parser.py
+pytest test_3/test_appearance.py
 ```
 
 
