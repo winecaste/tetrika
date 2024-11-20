@@ -14,14 +14,14 @@
 
 ```
 .
-├── task_1/
+├── test_1/
 │   ├── solution.py
 │   └── test_solution.py
-├── task_2/
+├── test_2/
 │   ├── solution.py
 │   ├── test_wiki_animals_parser.py
 │   └── beasts.csv
-├── task_3/
+├── test_3/
 │   ├── solution.py
 │   └── test_appearance.py
 └── README.md
